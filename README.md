@@ -6,7 +6,7 @@ Projeto desenvolvido para a disciplina de **Algoritmos e Programação** da Univ
 
 ## 📖 Sobre o projeto
 
-Este projeto foi desenvolvido para a disciplina de Algoritmos e Programação com o objetivo de aplicar conceitos de programação estruturada em C, utilizando structs, vetores, modularização e validação de dados na construção de um sistema de cadastro de alunos.
+Este projeto foi desenvolvido com o objetivo de aplicar conceitos de programação estruturada em C, utilizando structs, vetores, modularização e validação de dados na construção de um sistema de cadastro de alunos.
 
 ---
 
