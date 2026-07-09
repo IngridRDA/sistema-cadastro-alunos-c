@@ -6,16 +6,14 @@ Projeto desenvolvido para a disciplina de **Algoritmos e Programação** da Univ
 
 ## 📖 Sobre o projeto
 
-Este sistema foi desenvolvido utilizando a linguagem **C** com o objetivo de aplicar conceitos fundamentais de programação estruturada.
-
-O programa realiza o gerenciamento de alunos através de um menu interativo no terminal, utilizando **structs**, **vetores**, **funções** e **validações de dados**.
+Este projeto foi desenvolvido para a disciplina de Algoritmos e Programação com o objetivo de aplicar conceitos de programação estruturada em C, utilizando structs, vetores, modularização e validação de dados na construção de um sistema de cadastro de alunos.
 
 ---
 
 ## ✨ Funcionalidades
 
 - Cadastro de alunos
-- Listagem de registros
+- Listagem de alunos
 - Busca por matrícula
 - Atualização da nota final
 - Validação de matrícula duplicada
