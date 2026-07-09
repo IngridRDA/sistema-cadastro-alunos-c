@@ -1,3 +1,6 @@
+# Arquivo .gitignore para projetos em C
+# Ignora arquivos compilados, temporários e configurações locais da IDE.
+
 # ==========================
 # Arquivos compilados
 # ==========================
