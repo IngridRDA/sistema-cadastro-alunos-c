@@ -1,9 +1,5 @@
 # 🎓 Sistema de Cadastro de Alunos em C
 
-![C](https://img.shields.io/badge/C-Language-blue?logo=c)
-![Status](https://img.shields.io/badge/Status-Concluído-success)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 Projeto desenvolvido para a disciplina de **Algoritmos e Programação** da Universidade Unigranrio.
 
 ---
@@ -47,50 +43,6 @@ Aluno
 ├── Matrícula
 └── Nota Final
 ```
-
----
-
-## 🚀 Como executar
-
-Compilar:
-
-```bash
-gcc src/cadastro_alunos.c -o cadastro
-```
-
-Executar:
-
-Linux/macOS
-
-```bash
-./cadastro
-```
-
-Windows
-
-```bash
-cadastro.exe
-```
-
----
-
-## 📷 Demonstração
-
-### Menu
-
-(Adicionar imagem)
-
-### Cadastro
-
-(Adicionar imagem)
-
-### Busca
-
-(Adicionar imagem)
-
-### Atualização
-
-(Adicionar imagem)
 
 ---
 
