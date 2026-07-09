@@ -3,7 +3,7 @@
 Projeto desenvolvido para a disciplina de **Algoritmos e Programação** da Universidade Unigranrio.
 
 <p align="center">
-  <img src="image/sistema-funcionando.jpg" alt="Demonstração do Sistema de Cadastro de Alunos" width="850">
+  <img src="image/sistema-funcionando.jpg" alt="Demonstração do Sistema de Cadastro de Alunos" width="600">
 </p>
 
 ---
